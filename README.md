@@ -1,3 +1,11 @@
 ## Project Introduction:
 
-This project is dedicated to providing a universal page flow automation script, with different flows configured or stored in the form of configuration package files.
+This project is dedicated to providing a universal tool for managing and running web process automation scripts.
+
+Process packages can be imported either via the network or locally, which reduces the difficulty of configuration and enhances universality.
+
+
+
+## Technology Stack:
+
+Flask + Vue + Pywebview
